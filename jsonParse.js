@@ -1,3 +1,6 @@
+//Generates a tree structured csv from a complex JSON.
+//https://jsfiddle.net/nqwpsvfa/166
+
 var csv = [{
     key: "abc1",
     Record: {
